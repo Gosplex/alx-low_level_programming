@@ -11,7 +11,7 @@
 int main(void)
 {
 	int n, answer;
-	
+	/* */
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	answer = n % 10;
