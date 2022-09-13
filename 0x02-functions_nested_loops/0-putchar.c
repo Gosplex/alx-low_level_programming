@@ -9,7 +9,7 @@ int main(void)
 {
 	char name[20] = "_putchar";
 
-	printf("%s\n",name);
+	printf("%s\n", name);
 
 	return (0);
 }
