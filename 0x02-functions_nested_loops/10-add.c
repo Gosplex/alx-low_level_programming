@@ -2,8 +2,8 @@
 
 /**
  * add - Adds two integers
- * @num1 - The first nunber
- * @num2 - The second number
+ * @num1: The first nunber
+ * @num2: The second number
  *
  * Return: Result
  */
