@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strcat - Concatenate Strings
+ * _strcat - Concatenate Strings
  * @dest: Pointer
  * @src; String Source
  *
