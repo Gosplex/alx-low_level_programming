@@ -3,7 +3,7 @@
 /**
  * _strcat - Concatenate Strings
  * @dest: Pointer
- * @src; String Source
+ * @src: String Source
  *
  * Return: A pointer
  */
